@@ -12,7 +12,7 @@ A transformer-based multimodal intelligence system that analyzes:
 ## 🚀 Overview
 
 This project integrates multiple transformer models to perform real-time multimodal analysis.  
-It processes text, image, and audio inputs independently and then combines the signals using a weighted fusion logic to generate a contextual interpretation.
+It processes text, image, and audio inputs independently and then combines the signals using a weighted fusion logic to generate a contextual interpretation.  . 
 
 ---
 
